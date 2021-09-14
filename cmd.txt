@@ -1,0 +1,4 @@
+npm install bootstrap
+npm install jquery
+ng generate component Mycomponent/todos
+ng g c Mycomponent/add-todo
